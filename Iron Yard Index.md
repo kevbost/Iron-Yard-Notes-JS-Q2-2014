@@ -29,6 +29,6 @@
 
 ### [May 13, 2014 - jQuery Selectors](2014/May/13-jQuery-Selectors.md)
 
-### [May 14, 2014 - Github, APIs, Underscore](2014/May/14-Github-APIs-Underscore.md)
+### [May 14, 2014 - Github, APIs, Yeoman, Grunt, Underscore](2014/May/14-Github-APIs-Underscore.md)
 
 ### [May 19, 2014 - Objects Constructors, Prototypes](2014/May/19-Constructors.md)

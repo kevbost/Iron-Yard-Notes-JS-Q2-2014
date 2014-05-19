@@ -1,3 +1,10 @@
+#Objects, Constructors, Prototypes
+## 
+
+#[Back to INDEX](../../Iron%20Yard%20Index.md)
+## 
+
+
 ##May 19, 2014 - Constructors
 
 - "Capitalized javascript elements without a shadow of a doubt are constructors" - masondesu

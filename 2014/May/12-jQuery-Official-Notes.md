@@ -1,3 +1,10 @@
+#jQuery Student Lecture Notes
+## 
+
+#[Back to INDEX](../../Iron%20Yard%20Index.md)
+## 
+
+
 $('.box1') --> $ denotes a function, calling a string, 
 	
 	$('.box1'.)

@@ -1,8 +1,8 @@
-jQuery Selectors
+#jQuery Selectors
+## 
 
-"bugs are often the compound effect of many small mistakes" - masondesu
-
-From [May 12, 2014 - jQuery Notes](2014/May/12-jQuery-Notes.md)
+#[Back to INDEX](../../Iron%20Yard%20Index.md)
+## 
 
 ##Selectors
 
