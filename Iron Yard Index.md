@@ -11,6 +11,7 @@
 * [Moment JS - Time Library for JS](http://momentjs.com/)
 * [HTTP Status Codes, 404 Standards](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [Javascript Working With Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+* [Underscore Annotated Documentation](http://underscorejs.org/docs/underscore.html)
 
 #### Generators
 * Yeoman
