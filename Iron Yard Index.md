@@ -10,6 +10,7 @@
 * [D3 - Data Driven Documents](http://d3js.org/)
 * [Moment JS - Time Library for JS](http://momentjs.com/)
 * [HTTP Status Codes, 404 Standards](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [Javascript Working With Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 #### Generators
 * Yeoman
@@ -32,3 +33,5 @@
 ### [May 14, 2014 - Github, APIs, Yeoman, Grunt, Underscore](2014/May/14-Github-APIs-Underscore.md)
 
 ### [May 19, 2014 - Objects Constructors, Prototypes](2014/May/19-Constructors.md)
+
+### [May 19, 2014 - Objects Constructors, Prototypes EXTENDED](2014/May/19-Constructors-EXTENDED.md)

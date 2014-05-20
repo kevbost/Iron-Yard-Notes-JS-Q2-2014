@@ -7,9 +7,12 @@
 
 ##May 19, 2014 - Constructors
 
-- "Capitalized javascript elements without a shadow of a doubt are constructors" - masondesu
-- "dive down from this property into an object" - masondesu on overloaded syntax of "."
-- "Constructors are nothing more than plain old functions.  Constructors are just functions.  What are constructors?  Right, functions." - masondesu
+WHEN YOU THINK "CONSTRUCTOR", ALWAYS USE "NEW" KEYWORD
+
+	"Capitalized javascript elements without a shadow of a doubt are constructors"
+	"the period will dive down from a given property into an object" - on overloaded syntax of "."
+	"Constructors are nothing more than plain old functions.  Constructors are just functions.  What are constructors?  Right, they're functions.  Say it back... what are constructors?"
+		-masondesu-
 
 ######When you call for a property or method, first it looks for an instance to see if that property or that method exists on that particular instance.
 
