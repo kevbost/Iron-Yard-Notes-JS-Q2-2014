@@ -18,6 +18,7 @@
 		
 		Run "yo" WITHIN A NEW folder
 		Choose your package
+		bower install --save underscore
 		Run "grunt serve" to activate
 		Ctrl+C to deactivate
 
